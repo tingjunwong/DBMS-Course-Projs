@@ -1,2 +1,2 @@
-Working on cs186 projs
+Working on cs186 proj.s
 
